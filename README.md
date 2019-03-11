@@ -1,2 +1,2 @@
-# project-server
-node.js project server
+# purechain-server
+node.js purechain project server
